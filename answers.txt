@@ -1,0 +1,4 @@
+1. git add, adds the files chosen to be committed, I believe this is called staging. this is necessary before committing because you have to add the files to be pushed to the branch with a note of what is change.
+2. git commit is confirming the files to be pushed to the branch with a comment of what has changed, this is important so we know what changed with each push incase there are issues.
+3. git clone pulls a copy of the repository to our local computer. while git pull is for when the local repository already exists but needs to get the latest changes from the git repository.
+4. there are probably multiple ways to check if get pull was successful, in the cmd, git will often output something as indicator of what changed, as well as being able to do dir after a pull to check for files manually or do a git status.
